@@ -22,7 +22,7 @@ function refineURL(request) {
 }
 
 /**
- * Fetch and log a request
+ * Handle the request and look up the correct version
  * @param {Request} request
  */
 async function handleRequest(request) {

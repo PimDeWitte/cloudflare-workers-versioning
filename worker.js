@@ -6,7 +6,6 @@ const versions = {
     transcoderMaster: 44
 }
 
-
 /**
  * Refines URL for parsing without query string
  */

@@ -38,5 +38,4 @@ async function handleRequest(request) {
     } else {
         return new Response(-1, {status: 400})
     }
-
 }
